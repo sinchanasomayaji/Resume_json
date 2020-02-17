@@ -1,0 +1,10 @@
+{
+    "title": {
+        "name": "Resume",
+        "tag-type": "span",
+        "font-size": "2.5rem",
+        "bootstrap-style-classes": "col-12 my-2 font-weight-bolder",
+        "id": "title-span"
+    }
+
+}
